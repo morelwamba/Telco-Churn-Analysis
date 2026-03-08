@@ -1,7 +1,3 @@
-Here is a **clean, professional README.md** you can use for your **Telco Churn Analysis project** (perfect for GitHub and a Data Analyst / BI / ML portfolio).
-
----
-
 # 📊 Telco Customer Churn Analysis
 
 ## 📌 Project Overview
@@ -250,6 +246,3 @@ Skills:
 * Data Visualization
 * Machine Learning
 
----
-
-If you want, I can also give you a **🔥 much stronger README (GitHub portfolio level)** like **Google / Microsoft style projects** that impress recruiters in **Germany for Data Analyst / BI jobs**.
